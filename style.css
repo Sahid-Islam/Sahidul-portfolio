@@ -8,6 +8,9 @@ body{
 button:hover{
     background-color: #872BFF;
 }
+.card:hover{
+    box-shadow: 2px 2px 2px 2px #872BFF;
+}
 @media screen and (max-width: 1120px) {
     h1{
         font-size: 35px;
